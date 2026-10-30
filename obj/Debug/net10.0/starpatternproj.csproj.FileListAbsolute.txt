@@ -1,0 +1,15 @@
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\bin\Debug\net10.0\starpatternproj.exe
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\bin\Debug\net10.0\starpatternproj.deps.json
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\bin\Debug\net10.0\starpatternproj.runtimeconfig.json
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\bin\Debug\net10.0\starpatternproj.dll
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\bin\Debug\net10.0\starpatternproj.pdb
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\starpatternproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\starpatternproj.AssemblyInfoInputs.cache
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\starpatternproj.AssemblyInfo.cs
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\starpatternproj.csproj.CoreCompileInputs.cache
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\starpatternproj.sourcelink.json
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\starpatternproj.dll
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\refint\starpatternproj.dll
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\starpatternproj.pdb
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\starpatternproj.genruntimeconfig.cache
+C:\Users\adity\OneDrive\Desktop\c#\Encuplation\obj\Debug\net10.0\ref\starpatternproj.dll
